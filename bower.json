@@ -1,0 +1,18 @@
+{
+  "name": "leangout",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Barış Can Çifçi <17030220013@student.beykent.edu.tr>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "app",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/Bariscncfc/leangout",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
